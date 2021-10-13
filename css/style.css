@@ -1,0 +1,40 @@
+body {
+    font-family: 'Kosugi Maru', sans-serif;
+}
+ul {
+    margin: 1rem;
+}
+li {
+    list-style: none;
+    font-size: 1.5rem;
+}
+li.link-btn {
+    display: inline-block;
+}
+header {
+    padding: 1rem;
+}
+a {
+    color: black;
+}
+.border-bottom {
+    border-color: #929292 !important;
+}
+h5.card-title {
+    font-weight: bold;
+}
+table th {
+    text-align: right;
+}
+table thead tr th.col-1, table thead tr th.col-2 {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+table.table td {
+    text-align: center;
+}
+input, select {
+    width: 300px;
+    height: 2em;
+}
